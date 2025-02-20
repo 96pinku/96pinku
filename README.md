@@ -15,7 +15,7 @@ I'm **Pinku Parmar**, a passionate developer from India.
 ---
 
 ### 📊 GitHub Profile Summary
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-110-blue?style=for-the-badge&logo=github) <!-- Replace '12' with your actual total number of repositories -->
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-114-blue?style=for-the-badge&logo=github) <!-- Replace '12' with your actual total number of repositories -->
 
 ---
 
